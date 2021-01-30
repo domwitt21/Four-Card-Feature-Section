@@ -129,6 +129,19 @@ body {
     top: 170px;
 }
 
+.containerSpvsr img {
+    float: right;
+}
+.containerTeamBuild img {
+    float: right;
+}
+.containerKarma img {
+    float: right;
+}
+.containerCalc img {
+    float: right;
+}
+
 @media screen and (max-width: 1440px) {
     .containerSpvsr { position: relative; left: 173px; }
     .containerTeamBuild { left: 155px; top: 10px; }
